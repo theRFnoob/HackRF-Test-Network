@@ -1,6 +1,6 @@
 # HackRF-Test-Network
 
-TLDR: this repository is devoted to collection, organisation and sharing of testing results about the HackRF and Portapacks boards.
+TLDR: this repository is devoted to the collection, organisation and sharing of measurements and test results about the HackRF and Portapacks boards.
 
 
 # Why?
