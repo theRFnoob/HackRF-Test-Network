@@ -15,7 +15,7 @@ This repository serves the purpose of connecting people having some (but not all
 
 # How can I help?
 
-Go to to the Issues tab, find an experiment you want/can make, do it, and report your results in the format described in the specific issue entry you chose.
+Go to to the Issues tab, find an experiment you want/can make, do it, and report your results by adding an answer to the issue using the format described in the specific issue entry you chose.
 
 # How can I demand a new experiment?
 
