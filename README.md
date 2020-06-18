@@ -17,6 +17,6 @@ This repository serves the purpose of connecting people having some (but not all
 
 Go to to the Issues tab, find an experiment you want/can make, do it, and report your results by adding an answer to the issue using the format described in the specific issue entry you chose.
 
-# How can I demand a new experiment?
+# How can I ask for a new experiment?
 
 Go to to the Issues tab, create a new issue containing precise instructions on how to carry the experiment, and a clear format to report the results. Have a look at existing issues as reference templates.
